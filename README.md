@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 😄 Pronouns: He/TheyHim 
+- 😄 Pronouns: He/They/Him 
 - ⚡ Fun fact: I'm a Photographer and creative outside of being a Dev.
+- - 📫 How to reach me: Email me @ Chasekeen7@gmail.com
 
 <a href="https://app.daily.dev/Chasek6"><img src="https://api.daily.dev/devcards/14fd0e68288244fd9ad0cbcace4a7e75.png?r=snd" width="400" alt="Chase Stratton's Dev Card"/></a>
 <!--
