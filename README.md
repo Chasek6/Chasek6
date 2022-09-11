@@ -4,6 +4,9 @@
 - ⚡ Fun fact: I'm a Photographer and creative outside of being a Dev.
 -  📫 How to reach me: Email me @ Chasekeen7@gmail.com
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chasek6&theme=dark&show_icons=true)
+
 <a href="https://app.daily.dev/Chasek6"><img src="https://api.daily.dev/devcards/14fd0e68288244fd9ad0cbcace4a7e75.png?r=snd" width="400" alt="Chase Stratton's Dev Card"/></a>
 <!--
 **Chasek6/Chasek6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
